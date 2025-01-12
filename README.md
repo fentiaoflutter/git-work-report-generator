@@ -110,6 +110,6 @@ git-work-report-generator/
 
 ## 联系方式
 
-[您的姓名] - [您的邮箱]
+[fentiao] - [liuxinfentiao@163.com]
 
 项目链接: [https://github.com/fentiaoflutter/git-work-report-generator](https://github.com/fentiaoflutter/git-work-report-generator) 
