@@ -64,8 +64,7 @@ python run.py
    - **详细报告**: 包含完整的工作详情，包括具体的代码变更记录
 
 ## 功能截图
-![Uploading 截屏2025-01-12 11.51.35.png…]()
-
+<img width="805" alt="截屏2025-01-12 11 51 35" src="https://github.com/user-attachments/assets/a1044b6e-be4e-41a4-b09e-7a8328f59bf2" />
 
 ## 项目结构
 
